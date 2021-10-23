@@ -1,7 +1,7 @@
 # Mask-RCNN-Fnoise
 Solved:
 
-1.  Clone a repo containing detectron Mask-RCNN architecture. (Can change individual layers)
+1.  Clone a repo containing detectron2 Mask-RCNN architecture. (Can change individual layers)
 2.	Imported COCO dataset from a github repo and demonstrate that the chosen implementation is able to learn and perform inferences.
 
 Unsolved:
